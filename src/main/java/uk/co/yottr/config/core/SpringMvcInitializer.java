@@ -1,8 +1,7 @@
-package com.mkyong.config.core;
+package uk.co.yottr.config.core;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-
-import com.mkyong.config.AppConfig;
+import uk.co.yottr.config.AppConfig;
 
 public class SpringMvcInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
